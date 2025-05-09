@@ -1,0 +1,8 @@
+
+streamlit
+pybaseball
+xgboost
+scikit-learn
+pandas
+numpy
+requests
